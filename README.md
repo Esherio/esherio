@@ -207,6 +207,6 @@ and playing **chess** ♟️ in my free time.
   </tr>
 </table>
 
-[![Esherio stats](https://esherio-widget.service/api?username=Esherio)](https://esherio.service/Esherio)
+[![Yanacoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanacoder228&show_icons=true&theme=radical)](https://github.com/yanacoder228)
 
 
