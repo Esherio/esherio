@@ -207,5 +207,6 @@ and playing **chess** ♟️ in my free time.
   </tr>
 </table>
 
-[![Esherio stats](https://esherio‑widget.service/api?username=вашеИмяПользователя)](https://esherio.service/вашеИмяПользователя)
+[![Esherio stats](https://esherio-widget.service/api?username=esherio)](https://esherio.service/esherio)
+
 
