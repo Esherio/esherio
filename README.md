@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Yana 👋</h1>
+<h1 align="center">Hello there! 👋</h1>
 
 ## 💻 About Me
 🔹 **Front-end Developer** focused on **React**  
